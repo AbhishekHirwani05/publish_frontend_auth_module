@@ -1,5 +1,5 @@
 {
-  "name": "@AbhishekHirwani05/publish_auth",
+  "name": "@AbhishekHirwani05/Publish_frontend_Auth",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,7 +22,7 @@
    "eslint-plugin-import": "^2.27.5"
  },
  "repository": {
-   "url": "https://github.com/AbhishekHirwani05/publish_auth.git"
+   "url": "https://github.com/AbhishekHirwani05/Publish_frontend_Auth.git"
  },
   "keywords": [],
   "author": "",
