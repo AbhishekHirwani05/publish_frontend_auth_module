@@ -21,9 +21,6 @@
    "eslint-config-airbnb-base": "^15.0.0",
    "eslint-plugin-import": "^2.27.5"
  },
- "repository": {
-   "url": "https://github.com/AbhishekHirwani05/Publish_frontend_Auth.git"
- },
   "keywords": [],
   "author": "",
   "license": "ISC"
