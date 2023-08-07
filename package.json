@@ -1,0 +1,30 @@
+{
+  "name": "@AbhishekHirwani05/publish_auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+   "axios": "^1.2.6",
+   "inquirer": "^8.0.0",
+   "prompt-list": "^3.2.0",
+   "react-router-dom": "6.4.2"
+ },
+ "bin": {
+   "execute": "index.js"
+ },
+ "devDependencies": {
+   "@types/node": "^18.11.18",
+   "eslint": "^8.38.0",
+   "eslint-config-airbnb-base": "^15.0.0",
+   "eslint-plugin-import": "^2.27.5"
+ },
+ "repository": {
+   "url": "https://github.com/AbhishekHirwani05/publish_auth.git"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
