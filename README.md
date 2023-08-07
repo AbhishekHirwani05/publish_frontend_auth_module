@@ -3,7 +3,6 @@
 Auth Module for React using TypeScript.
 
 This module provides an easy way to implement authentication in your application. It includes the folling functionality:
-
 * Sign Up
 * Sign In
 * Forgot Password
